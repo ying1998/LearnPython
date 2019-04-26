@@ -158,8 +158,3 @@ plt.title('polyfitting')
 plt.show()
 
 
-# ---------------------
-# 作者：数据架构师
-# 来源：CSDN
-# 原文：https://blog.csdn.net/luanpeng825485697/article/details/79443512
-# 版权声明：本文为博主原创文章，转载请附上博文链接！
